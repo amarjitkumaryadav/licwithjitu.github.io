@@ -1,0 +1,89 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+}
+a{
+    text-decoration: none;
+color: white;
+}
+a:hover{
+    color: #ffc107;
+}
+
+.navbar{
+    DISPLAY: FLEX;
+justify-content: end;
+list-style-type: none;
+margin: ;
+font-size: 18px;
+letter-spacing: 0.08em;
+border-left: 10px rgb(218, 19, 19);
+text-decoration: none;
+}
+.navbar li{
+    padding: 5px;
+    background-color:#01559b;
+    color: white;text-decoration: none;
+    border-left: 10px white;
+}
+.toppic{
+    display: flex;
+    align-items: center;text-decoration: none;
+}
+.toppic .jitu{
+    padding-left: 133px;
+}
+.toppic .chasma{
+   
+        padding-left: 440px;
+    }
+    
+    .toppic .face{
+   
+        padding-right: 10px;
+    }
+    .homebar nav
+    {
+        DISPLAY: FLEX;
+    justify-content: end;
+    list-style-type: none;
+  padding-right: 20px;
+  font-size: 25px;text-decoration: none;
+letter-spacing: -0.012em;
+line-height: 2;
+.homebar nav .li{
+    padding: 5px;
+    padding-left: 50px;
+    background-color:#01559b;
+    color: white;
+    .homebar nav .lit{
+        padding: 5px;
+        padding-left: 50px;
+        background-color:#01559b;
+        color: white;}
+
+        .slider{
+            display: flex;
+            position: absolute;
+            justify-content: center;text-decoration: none;
+            padding-top: 15px
+          }
+    
+
+    }
+    
+    
+    
+    }
+    .homebar nav .li{
+        padding: 5px;
+        padding-left: 50px;
+        background-color:#01559b;
+        color: white;text-decoration: none;
+        .homebar nav .lit{
+            padding: 5px;
+            padding-left: 50px;
+            background-color:#01559b;
+            color: white;}
+
